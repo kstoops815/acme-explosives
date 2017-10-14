@@ -1,0 +1,40 @@
+{
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 1,
+            "category": 0,
+            "name": "ground_items",
+            "description": "Fireworks that are lit on the ground and do not shoot objects into the sky"
+        },
+        {
+            "id": 2,
+            "category": 0,
+            "name": "novelty",
+            "description": "Fireworks items that limited in their potential to harm people and property"
+        },
+        {
+        	"id": 3,
+        	"category": 1,
+        	"name":	"bulk",
+        	"description": "Explosives that are the most efficient way to break large masses of rock; formulations tailored to specific geologic conditions and customer needs"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "name": "cast_boosters",
+            "description": "Explosives that have a reliable initiation of non-detonator-sensitive blasting agents in sizes and configurations for all applications"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "name": "oil_field",
+            "description": " Explosives that employ safe and efficient methods in a wide variety of challenging environments"
+        }
+    ]
+}

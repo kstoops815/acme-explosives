@@ -1,0 +1,148 @@
+{
+    "products": [
+    	{
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        	}
+    	},
+    	{
+        "bottle_rockets": {
+            "id": 1,
+            "type": 0,
+            "name": "Bottle Rockets",
+            "description": "Make a rocket out of a bottle."
+        	}
+    	},
+    	{
+        "cat_works": {
+            "id": 2,
+            "type": 0,
+            "name": "Cat Works",
+            "description": "Shoot out of the business end of your cat."
+        	}
+    	},
+    	{
+        "ground_flower": {
+            "id": 3, 
+            "type": 1,
+            "name": "Ground Bloom Flower",
+            "description": "Fantastic ground spinner dances, swirls and changes color."
+        	}
+    	},
+    	{
+        "snaps": {
+            "id": 4,
+            "type": 1,
+            "name": "Snaps",
+            "description": "Paper balls that are go BANG when they are thrown at something, preferably your cat."
+        	}
+    	},
+    	{
+        "smoke_balls": {
+            "id": 5,
+            "type": 1,
+            "name": "Smoke Balls",
+            "description": "Put these in your pants to make your balls disappear."
+        	}
+    	},
+    	{
+        "poppers": {
+            "id": 6,
+            "type": 2,
+            "name": "Poppers",
+            "description": "Throw these at the feet of your cat for a good time!"
+        	}
+    	},
+    	{
+        "snakes": {
+            "id": 7,
+            "type": 2,
+            "name": "Snakes",
+            "description": "Snakes are hard pellets that are lit and produce a long carbon snake."
+        	}
+    	},
+    	{
+        "wheels": {
+            "id": 8,
+            "type": 2,
+            "name": "Wheels",
+            "description": " A stationary device that spins and creates a circular ring of fire to throw your cat into."
+        	}
+    	},
+    	{
+        "bang": {
+            "id": 9,
+            "type": 3,
+            "name": "It Goes Bang",
+            "description": "Go big or go home with these explosives designed to blow A LOT of shit up."
+        	}
+    	},
+    	{
+        "heavy": {
+            "id": 10,
+            "type": 3,
+            "name": "Heavy Lifting",
+            "description": "Want to see cars, buses, or cats fly? This product is right for you."
+        	}
+    	},
+    	{
+        "southern_drawl": {
+            "id": 11,
+            "type": 3,
+            "name": "Southern Drawl",
+            "description": "Hear the effects of this product for days, maybe put a week on it."
+        	}
+    	},
+    	{
+        "trojan_geoprime": {
+            "id": 12,
+            "type": 4,
+            "name": "Trojan Geoprime",
+            "description": "Increases your primal instincts."
+        	}
+    	},
+    	{
+        "trojan_spartan": {
+            "id": 13,
+            "type": 4,
+            "name": "Trojan Spartan",
+            "description": "For an explosion as big as King Leonidas's Queen experienced."
+        	}
+    	},
+    	{
+        "trojan_stinger": {
+            "id": 14,
+            "type": 4,
+            "name": "Trojan Stinger",
+            "description": "For those times when you want multiple explosions."
+        	}
+    	},
+    	{
+        "fireline_ribbon": {
+            "id": 15,
+            "type": 5,
+            "name": "Fireline Ribbon",
+            "description": "Specially process for use with RTG perforating gun systems."
+        	}
+    	},
+    	{
+        "fireline_plastic": {
+            "id": 16,
+            "type": 5,
+            "name": "Fireline Plastic",
+            "description": "Economical alternative intended for mild downhole conditions."
+        	}
+    	},
+    	{
+        "fireline_exposed": {
+            "id": 17,
+            "type": 5,
+            "name": "Fireline Exposed",
+            "description": "Flexible HT/HP cord for use in caustic environments."
+        	}
+    	}
+	]
+}
